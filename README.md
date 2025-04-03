@@ -13,11 +13,11 @@
 
 # Here a baic 3*3 grid example has been solved using monte carlo 
 Environment Understanding
-  The robot starts in the top-left corner (position 0,0)
-  Most cells have a -1 penalty
-  Bottom-middle cell has a -10 penalty
-  Bottom-right cell has the +10 reward goal
-  The task is to find the optimal policy to reach the goal with maximum cumulative reward
+  \\The robot starts in the top-left corner (position 0,0)
+  \\Most cells have a -1 penalty
+  \Bottom-middle cell has a -10 penalty
+  \\n Bottom-right cell has the +10 reward goal
+  \n The task is to find the optimal policy to reach the goal with maximum cumulative reward
 
 # Monte Carlo Methods Implementation
 I've implemented both First-Visit and Every-Visit Monte Carlo methods for this problem:

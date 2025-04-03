@@ -54,3 +54,14 @@ Both methods converge to similar solutions, showing that the optimal path is:
 
 ![Screenshot from 2025-04-03 12-22-50](https://github.com/user-attachments/assets/8b3cf8af-786e-4eb4-bf77-5fdc631b2bd5)
 ![Figure_1](https://github.com/user-attachments/assets/be2f286f-0a5a-495e-8e09-5c8db948255d)
+
+
+# Result Analysis of code 2
+
+![Screenshot from 2025-04-03 15-13-49](https://github.com/user-attachments/assets/c3d71b96-1ec0-45dc-aebc-315614050685)
+
+![Figure_3](https://github.com/user-attachments/assets/1118e26f-93cd-4c50-96f2-b47b68fb9016)
+
+![Figure_4](https://github.com/user-attachments/assets/cec275d3-977d-495c-85de-19ee124f3a05)
+
+![Figure_5](https://github.com/user-attachments/assets/ecff6101-c1c9-40a9-a643-c8c01e8fee66)

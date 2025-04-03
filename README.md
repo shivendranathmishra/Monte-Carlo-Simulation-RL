@@ -11,6 +11,9 @@
 
 ![Screenshot from 2025-04-03 12-43-55](https://github.com/user-attachments/assets/4f8acfa0-84d3-4270-9503-e130b2fc2190)
 
+![Screenshot from 2025-04-03 15-19-25](https://github.com/user-attachments/assets/d9bb879c-2b93-4cdc-8b8b-787a27338c06)
+
+
 
 # 2. Every Visit Monte Carlo 
 

@@ -20,7 +20,8 @@
 ![Screenshot from 2025-04-03 12-44-05](https://github.com/user-attachments/assets/7c91d0c9-c29e-462a-8c46-c51fa0513d0c)
 
 
- 
+ ![Screenshot from 2025-04-03 15-21-59](https://github.com/user-attachments/assets/33c5e68e-32b3-4199-aabf-78740ce91963)
+
 
 
 # Here a baic 3*3 grid example has been solved using monte carlo 

@@ -6,7 +6,14 @@
      Π(s)-->avg. Q(s,a)
 ## Tyepes of Monte Carlo 
 # 1. First Visit Monte Carlo 
+
+![Screenshot from 2025-04-03 12-43-55](https://github.com/user-attachments/assets/4f8acfa0-84d3-4270-9503-e130b2fc2190)
+
+
 # 2. Every Visit Monte Carlo 
+
+![Screenshot from 2025-04-03 12-44-05](https://github.com/user-attachments/assets/7c91d0c9-c29e-462a-8c46-c51fa0513d0c)
+
 
  ![Screenshot from 2025-04-03 12-31-33](https://github.com/user-attachments/assets/c4b1413c-8221-4f64-b605-586e2ad7baed)
 

@@ -58,6 +58,9 @@ Both methods converge to similar solutions, showing that the optimal path is:
 
 # Result Analysis of code 2
 
+![Screenshot from 2025-04-03 11-52-47](https://github.com/user-attachments/assets/7deb0b79-6e5a-4eb2-bb2f-0ea2707a38d4)
+
+
 ![Screenshot from 2025-04-03 15-13-49](https://github.com/user-attachments/assets/c3d71b96-1ec0-45dc-aebc-315614050685)
 
 ![Figure_3](https://github.com/user-attachments/assets/1118e26f-93cd-4c50-96f2-b47b68fb9016)
